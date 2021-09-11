@@ -1,5 +1,7 @@
 Esta es la historia de Juan Diaz.
 
 Juan Diaz tiene 40 años y nació en Perú.
+Juan Diaz - Linux es el desarrollador principal.
+Juan Diaz - Windows se incorpora al proyecto.
 
 Es programador y trabaja en Sypsoft.
