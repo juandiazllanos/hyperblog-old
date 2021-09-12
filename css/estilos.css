@@ -5,6 +5,7 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background: saddlebrown;
 }
 
 #container{
@@ -34,7 +35,13 @@ body{
     padding: 0.8em;
 }
 
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #post
 {
     padding: 1em;
+    background: white;
 }
